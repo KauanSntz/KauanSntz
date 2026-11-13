@@ -18,4 +18,4 @@ JavaScript · HTML5 · CSS3 · Python · Node.js · Express · SQLite · Git · 
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/kauan-santos-383273258/) · kauanfere@gmail.com
+[LinkedIn](https://www.linkedin.com/in/kauan-santos-dev/) · kauanfere@gmail.com
